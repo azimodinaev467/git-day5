@@ -501,3 +501,102 @@ button:hover {
 .mmm4:hover {
     background-color: #0056b3;
 }
+.zzz1 {
+  background: #f7f7f7;
+  font-family: Arial, sans-serif;
+}
+
+.zzz2 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 40px;
+  padding: 50px;
+}
+
+.zzz4 {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+.zzz5 {
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.zzz6 {
+  margin: 15px 0 10px;
+  font-size: 14px;
+}
+
+.zzz7 {
+  display: flex;
+  gap: 10px;
+}
+
+.zzz8 {
+  width: 22px;
+  height: 22px;
+  background: #000;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.zzz10 {
+  list-style: none;
+  padding: 0;
+}
+
+.zzz10 p {
+  font-size: 14px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.zzz12 {
+  display: grid;
+  grid-template-columns: repeat(3, 60px);
+  gap: 10px;
+}
+
+.zzz13 {
+  width: 60px;
+  height: 60px;
+  
+  border-radius: 6px;
+}
+
+.zzz15 {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.zzz16 {
+  width: 100%;
+  padding: 12px;
+  border-radius: 25px;
+  border: 1px solid #ccc;
+  margin-bottom: 15px;
+}
+
+.zzz17 {
+  width: 100%;
+  padding: 12px;
+  border-radius: 25px;
+  border: none;
+  background: #1e88a8;
+  color: #fff;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.zzz17:hover {
+  background: #166b85;
+}
+
+.zzz18 {
+  background: #222;
+  color: #ccc;
+  text-align: center;
+  padding: 15px;
+  font-size: 13px;
+}
