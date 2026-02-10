@@ -244,6 +244,7 @@ padding: 10px;
 .kkk6 {
   display: flex;
   gap: 12px;
+  margin-left: 140px;
 }
 
 .kkk7,
@@ -298,4 +299,65 @@ padding: 10px;
   color: #fff;
   font-size: 20px;
   font-weight: bold;
+}
+.vvv1 {
+  padding: 60px;
+  background: #ffffff;
+}
+
+.vvv2 {
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 50px;
+  color: #1f2933;
+}
+
+.vvv3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+  align-items: center;
+}
+
+.vvv4,
+.vvv14 {
+  width: 100%;
+  height: 320px;
+  border-radius: 30px;
+}
+
+.vvv5,
+.vvv15 {
+  width: 90%;
+  height: 100%;
+  border-radius: 50px;
+}
+
+.vvv6,
+.vvv10 {
+  max-width: 420px;
+}
+
+.vvv7,
+.vvv11 {
+  font-size: 22px;
+  margin-bottom: 16px;
+  color: #111827;
+}
+
+.vvv8,
+.vvv12 {
+  color: #6b7280;
+  line-height: 1.6;
+  margin-bottom: 18px;
+}
+
+.vvv9,
+.vvv13 {
+  text-decoration: none;
+  color: #111827;
+  font-weight: bold;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
 }
